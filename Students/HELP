@@ -1,0 +1,10 @@
+To create the required tables, load create_tables.sql in your SQL database.
+
+To compile, enter ./compile.sh
+
+To run, enter ./run.sh
+
+To do both at once, enter ./compile-and-run.sh
+
+If you're not running a Linux environment, you should reflect on your poor life 
+choices.
